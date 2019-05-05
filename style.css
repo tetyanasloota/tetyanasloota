@@ -1,0 +1,19 @@
+  p { font-family: system-ui;
+     font-weight: 400;
+     font-style: italic;
+     font-size: 13pt;
+ }
+ .fig { text-align: center;
+ }
+ h1 { font-family: system-ui;
+ 	  color: saddlebrown;
+ }
+ .ni { font-family: system-ui;
+ 	   color: saddlebrown;
+ }
+ title { color: saddlebrown;
+ }
+ main.menu { font-size: 13pt;
+ }
+ .menu { font-size: 18pt;
+ 	     color: black;

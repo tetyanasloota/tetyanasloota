@@ -1,0 +1,66 @@
+ h1 { font-family: system-ui;
+ 	  color: saddlebrown;
+ 	  text-align: center;
+}
+ p { font-family: system-ui;
+     font-weight: 400;
+     font-style: italic;
+     font-size: 13pt;
+     text-align: center;
+ }
+   .imp {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+   .eks {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+   .mod {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+   .neo {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+   .kub {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .pop {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .rom {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .rea {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .syr {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .sim {
+     font-style: italic;
+     font-weight: 400;
+     font-size: 13pt;
+}
+  .lestcol {
+     font-style: italic;
+     font-weight: 400px;
+     font-size: 13pt;
+}
+   
