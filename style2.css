@@ -2,65 +2,118 @@
  	  color: saddlebrown;
  	  text-align: center;
 }
+ h2 { font-family: system-ui;
+ 	  color: saddlebrown;
+}
  p { font-family: system-ui;
      font-weight: 400;
      font-style: italic;
      font-size: 13pt;
      text-align: center;
- }
-   .imp {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
 }
-   .eks {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+.thumb figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
 }
-   .mod {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.thumb img {
+  border: 1px;
+  width: 100%;
 }
-   .neo {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.thumb figcaption {
+  text-align: center;
+  font-style: italic;
 }
-   .kub {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+.eks figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
 }
-  .pop {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.eks img {
+  border: 1px;
+  width: 100%;
 }
-  .rom {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.eks figcaption {
+  text-align: center;
+  font-style: italic;
 }
-  .rea {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+.mod figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
 }
-  .syr {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.mod img {
+  border: 1px;
+  width: 100%;
 }
-  .sim {
-     font-style: italic;
-     font-weight: 400;
-     font-size: 13pt;
+
+.mod figcaption {
+  text-align: center;
+  font-style: italic;
 }
-  .lestcol {
-     font-style: italic;
-     font-weight: 400px;
-     font-size: 13pt;
+.neo figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
 }
-   
+
+.neo img {
+  border: 1px;
+  width: 100%;
+}
+
+.neo figcaption {
+  text-align: center;
+  font-style: italic;
+}
+.kub figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
+}
+
+.kub img {
+  border: 1px;
+  width: 100%;
+}
+
+.kub figcaption {
+  text-align: center;
+  font-style: italic;
+}
+.pop figure {
+  width: 23%;
+  margin: 1%;
+  display: inline-block;
+}
+
+.pop img {
+  border: 1px;
+  width: 100%;
+}
+
+.pop figcaption {
+  text-align: center;
+  font-style: italic;
+}
+       .rom figure { width: 23%;
+                     margin: 1%;
+                     display: inline-block;
+}
+
+       .rom img {  border: 1px;
+                   width: 100%;
+}
+
+       .rom figcaption { text-align: center;
+                         font-style: italic;
+}
+
+   #container {
+  display: flex;
+}
